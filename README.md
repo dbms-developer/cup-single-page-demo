@@ -1,4 +1,4 @@
-# cup-synthetics
+# cup-single page demo
 
 Links to New Relic 
 
